@@ -9,7 +9,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "LeetCode", "LeetCode", "{57
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Course", "Course", "{C4621696-844D-4A31-B9C7-1711A12FC2FD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "datastructure_course", "datastructure_course\datastructure_course.csproj", "{2A088EDF-A10C-4A63-90A0-B6C3FF6F9E75}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Recursion001", "datastructure_course\Recursion001.csproj", "{2A088EDF-A10C-4A63-90A0-B6C3FF6F9E75}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Recursion002", "Recursion002\Recursion002.csproj", "{F30E810F-4766-42A2-88E0-BFCE36CAE44B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -25,6 +27,10 @@ Global
 		{2A088EDF-A10C-4A63-90A0-B6C3FF6F9E75}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2A088EDF-A10C-4A63-90A0-B6C3FF6F9E75}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2A088EDF-A10C-4A63-90A0-B6C3FF6F9E75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F30E810F-4766-42A2-88E0-BFCE36CAE44B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F30E810F-4766-42A2-88E0-BFCE36CAE44B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F30E810F-4766-42A2-88E0-BFCE36CAE44B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F30E810F-4766-42A2-88E0-BFCE36CAE44B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -32,6 +38,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{B4DC0461-B726-451B-BD92-77C0EEA85DBA} = {57C07E4E-7544-42AE-9C3B-463AD0045C52}
 		{2A088EDF-A10C-4A63-90A0-B6C3FF6F9E75} = {C4621696-844D-4A31-B9C7-1711A12FC2FD}
+		{F30E810F-4766-42A2-88E0-BFCE36CAE44B} = {C4621696-844D-4A31-B9C7-1711A12FC2FD}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E628662B-05ED-4AA1-AFE7-DAD04040078D}

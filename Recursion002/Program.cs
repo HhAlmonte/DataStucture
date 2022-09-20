@@ -11,7 +11,7 @@
         {
             int result = 0;
 
-            // caso inductivo
+            // caso inductivo /
             if (n > 1)
                 result = Fibonacci(n - 1) + Fibonacci(n - 2);
 
